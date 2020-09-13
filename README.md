@@ -1,11 +1,4 @@
-1.	Clone the sample express application Express App
-2.	Create a custom VPC
-3.	Create private & public subnets
-4.	Create CI/CD pipeline using CodeCommit, CodeBuild, CodeDeploy and Pipeline
-5.	Application can deployed on ECS / EC2
-6.	The application should run on private instances and serve through ELB
-7.	Whenever the code gets committed to the master branch, the application should be redeployed.
-8.	High level documentation
+#Creating AWS CI/CD Pipeline for NodeJs Project by using AWS Codecommit,CodeDeploy,CodePipeline 
 
 Create Custom VPC
 
