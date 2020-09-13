@@ -1,4 +1,4 @@
-#Creating AWS CI/CD Pipeline for NodeJs Project by using AWS Codecommit,CodeDeploy,CodePipeline 
+Creating AWS CI/CD Pipeline for NodeJs Project by using AWS Codecommit,CodeDeploy,CodePipeline
 
 Create Custom VPC
 
